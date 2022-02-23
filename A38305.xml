@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Lords spiritual and temporal in and about the cities of London and Westminister assembled at Guild-hal 11 Dec. 1688</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38305</idno>
+            <idno type="STC">Wing E2795</idno>
+            <idno type="STC">ESTC R27348</idno>
+            <idno type="EEBO-CITATION">09818612</idno>
+            <idno type="OCLC">ocm 09818612</idno>
+            <idno type="VID">44170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44170)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1356:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Lords spiritual and temporal in and about the cities of London and Westminister assembled at Guild-hal 11 Dec. 1688</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A declaration of support for William of Orange.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:44170:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>THE DECLARATION OF THE LORDS Spiritu<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l and Temporal, In and about the CITIES of <hi>LONDON</hi> and <hi>WEST<gap reason="illegible: damage" extent="7 letters">
+                     <desc>〈7 letters〉</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>  Aſſembled at <hi>G<g ref="char:V">Ʋ</g>ILDHAL,</hi> 
+               <date>11 <hi>Dec.</hi> 1688.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>EE doubt not but the World believes that this Great and Dangerous Conjuncture, We are heartily and zealouſly concerned for the Proteſtant Religion, the Laws of the Land, and the Liberties and Pro<g ref="char:EOLhyphen"/>perties of the Subject. And We did reaſonably hope, that the King having Iſſued His Proclamation<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Writs for a Free Parliament, We might have reſted Secure under the Expectation of that Meeting But His Majeſty having withdrawn Himſelf and as We apprehend, in order to His Departure out this Kingdom, by the Pernicious Counſels <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Perſons ill Affected to Our Notion and Religion<g ref="char:punc">▪</g> We <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not, without being wanting to Our Duty be ſilent under <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ſe, <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wherein the <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> prevailed, have miſerably involved theſe Realms. We do <gap reason="illegible: damage" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>efore Una<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mou<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> reſolve to <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pply Our<gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to his High<g ref="char:EOLhyphen"/>neſs the Prince of <hi>Orange,</hi> who with ſo great Kindneſs to theſe Kingdoms, ſo vaſt Expence and ſo the <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> own Perſon, hath Undertaken, by endeavouring to Procure a Free Parliament, to reſcue Us, with as little <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> poſſible, of Chriſtian Blood from the imminent Dangers of Popery and Slavery.</p>
+            <p>And We do hereby Declare, That We will, with our utmoſt Endeavours, aſſiſt his Highneſs in the obtaining ſuch a Parliament with all ſpeed, wherein Our Laws, Our Liberties and Properties may be Secured, the Church of <hi>England</hi> in particular, with a due Liberty to Proteſtant Diſſenters, and in general the Proteſtant Religion and Intereſt over the whole World may be Supported and Encouraged, to the Glory of God, the Happineſs of the Eſtabliſhed Government in theſe Kingdoms, and the Advantage of all Princes and Sta<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s in Chriſtendom, that may be herein concerned.</p>
+            <p>In the mean time, We will Endeavour to Preſerve, as much as in Us lies, the Peace and Security of theſe great and po<g ref="char:EOLhyphen"/>pulous Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the Parts Adjacent, by taking Care to Diſarm all Papiſts, and Secure all Jeſuites and Romiſh Prieſts, who are in or about the ſame.</p>
+            <p>And if there be any thing more to be performed by Us, for promoting his Highneſs's Generous Intentions for the Pu<g ref="char:EOLhyphen"/>blick Good, We ſhall be ready to do it as occaſion ſhall require.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>W. Cant.</item>
+                     <item>Tho. Ebor.</item>
+                     <item>Pembroke</item>
+                     <item>Dorſet.</item>
+                     <item>Mulgrave.</item>
+                     <item>Thanet.</item>
+                     <item>Carliſle.</item>
+                     <item>Craven.</item>
+                     <item>Ailesbury.</item>
+                     <item>Burlington.</item>
+                     <item>Suſsex.</item>
+                     <item>Berkeley.</item>
+                     <item>Rochester.</item>
+                     <item>Newport.</item>
+                     <item>Weymouth.</item>
+                     <item>P. Wincheſter.</item>
+                     <item>W. Aſaph.</item>
+                     <item>Fran. Ely.</item>
+                     <item>Tho. Roffen.</item>
+                     <item>Tho. Petriburg.</item>
+                     <item>P. Wharton.</item>
+                     <item>North and Grey.</item>
+                     <item>Chandos.</item>
+                     <item>Montague.</item>
+                     <item>T. Jermyn.</item>
+                     <item>Vaughan Carbery.</item>
+                     <item>Culpeper.</item>
+                     <item>Crewe.</item>
+                     <item>Oſulſton.</item>
+                  </list>
+               </signed>
+
+            </closer>
+            <postscript>
+               <p>WHereas His Majeſty hath privatly this Morning withdrawn Himſelf, We the Lords Spiritual and Temporal, whoſe Names are Subſcribed, being aſſembled at <hi>Guildhal</hi> in <hi>London<g ref="char:punc">▪</g>
+                  </hi> having agr<gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d upon and Signed Declaration, In<g ref="char:EOLhyphen"/>tituled, <hi>The Declaration of the Lords Spiritual and Temporal, in and about the Cities of</hi> London <hi>and</hi> Weſtminſter, <hi>aſſembled at</hi> Guildhal, 11 <hi>Dec.</hi> 1688. Do deſire the Right Honourable the Earl of <hi>Pembroke,</hi> the Right Honourable the Lord Viſcount <hi>Weymouth,</hi> the Right Reverend Father in God the Lord Biſhop of <hi>Ely,</hi> and the Right Honourable the Lord <hi>Culpeper,</hi> forth<g ref="char:EOLhyphen"/>with to attend His Highneſs the Prince of <hi>Orange</hi> with the ſa<gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Declaration and at the ſame time acquaint His Highneſs with what We have further done at that Meeting. Dated at <hi>Guildhal</hi> the 11th of <hi>December,</hi> 1688.</p>
+            </postscript>
+            <postscript>
+               <head>To <hi>Edward Jones</hi> Printer at the <hi>Savoy.</hi>
+               </head>
+               <p>WE the Peers of this R<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alm, being aſſembled with ſome of the Lords of the Privy Council, Do hereby Order and Require You forthwith to Print and Publiſh the Declaration here<g ref="char:EOLhyphen"/>with ſent unto You.</p>
+               <closer>
+                  <dateline>At the Council-Chamber in <hi>Whitehal,</hi> 
+                     <date>the 12th of December, 1688.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Tho. Ebor.</item>
+                        <item>Halifax.</item>
+                        <item>Kent.</item>
+                        <item>Angleſey.</item>
+                        <item>Carliſle.</item>
+                        <item>Ailesbury.</item>
+                        <item>Suſſex</item>
+                        <item>Be<gap reason="illegible: damage" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>keley.</item>
+                        <item>Nottingham.</item>
+                        <item>P. Winch<gap reason="illegible: damage" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſter</item>
+                        <item>Tho. Petribu<gap reason="illegible: damage" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>g.</item>
+                        <item>Tho. Roffen.</item>
+                        <item>Nort<gap reason="illegible: damage" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <hi>and</hi> Grey.</item>
+                        <item>Chandos.</item>
+                        <item>T. Jermyn.</item>
+                        <item>Crewe.</item>
+                        <item>Oſulſton</item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>By Order, <hi>Re printed at</hi> Edinburgh, Anno DOM. <hi>1688.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
